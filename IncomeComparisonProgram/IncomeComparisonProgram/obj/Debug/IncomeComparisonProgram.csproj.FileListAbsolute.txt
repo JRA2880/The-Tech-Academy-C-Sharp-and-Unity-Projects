@@ -1,0 +1,6 @@
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\IncomeComparisonProgram.exe.config
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\IncomeComparisonProgram.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\IncomeComparisonProgram.pdb
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.pdb
