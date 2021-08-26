@@ -13,7 +13,7 @@ namespace WhileConsoleApp
 
             Console.WriteLine("Guess an animal?:");
             string animal = Console.ReadLine();
-            bool isGuessed = animal == "tiger";
+            bool isGuessed = false;
 
             while(!isGuessed)
             {
