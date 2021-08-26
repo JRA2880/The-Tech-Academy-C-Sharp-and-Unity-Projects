@@ -1,0 +1,7 @@
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\DoWhileConsoleApp\DoWhileConsoleApp\obj\Debug\DoWhileConsoleApp.csprojAssemblyReference.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\DoWhileConsoleApp\DoWhileConsoleApp\obj\Debug\DoWhileConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\DoWhileConsoleApp\DoWhileConsoleApp\bin\Debug\DoWhileConsoleApp.exe.config
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\DoWhileConsoleApp\DoWhileConsoleApp\bin\Debug\DoWhileConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\DoWhileConsoleApp\DoWhileConsoleApp\bin\Debug\DoWhileConsoleApp.pdb
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\DoWhileConsoleApp\DoWhileConsoleApp\obj\Debug\DoWhileConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\DoWhileConsoleApp\DoWhileConsoleApp\obj\Debug\DoWhileConsoleApp.pdb
