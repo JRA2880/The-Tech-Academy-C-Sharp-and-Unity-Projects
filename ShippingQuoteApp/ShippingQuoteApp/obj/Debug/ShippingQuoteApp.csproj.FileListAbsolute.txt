@@ -1,0 +1,7 @@
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\ShippingQuoteApp.exe.config
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\ShippingQuoteApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\ShippingQuoteApp.pdb
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.csprojAssemblyReference.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.csproj.CoreCompileInputs.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.pdb
