@@ -1,0 +1,6 @@
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\ArrayAndListAssignment\ArrayAndListAssignment\bin\Debug\ArrayAndListAssignment.exe.config
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\ArrayAndListAssignment\ArrayAndListAssignment\bin\Debug\ArrayAndListAssignment.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\ArrayAndListAssignment\ArrayAndListAssignment\bin\Debug\ArrayAndListAssignment.pdb
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Desktop\Basic_C#_Programs\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.pdb
