@@ -1,0 +1,7 @@
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodConsoleApp\MainMethodConsoleApp\bin\Debug\MainMethodConsoleApp.exe.config
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodConsoleApp\MainMethodConsoleApp\bin\Debug\MainMethodConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodConsoleApp\MainMethodConsoleApp\bin\Debug\MainMethodConsoleApp.pdb
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodConsoleApp\MainMethodConsoleApp\obj\Debug\MainMethodConsoleApp.csprojAssemblyReference.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodConsoleApp\MainMethodConsoleApp\obj\Debug\MainMethodConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodConsoleApp\MainMethodConsoleApp\obj\Debug\MainMethodConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodConsoleApp\MainMethodConsoleApp\obj\Debug\MainMethodConsoleApp.pdb
