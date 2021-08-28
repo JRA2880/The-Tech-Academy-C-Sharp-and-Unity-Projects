@@ -1,0 +1,7 @@
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TryCatchConsoleApp\TryCatchConsoleApp\bin\Debug\TryCatchConsoleApp.exe.config
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TryCatchConsoleApp\TryCatchConsoleApp\bin\Debug\TryCatchConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TryCatchConsoleApp\TryCatchConsoleApp\bin\Debug\TryCatchConsoleApp.pdb
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TryCatchConsoleApp\TryCatchConsoleApp\obj\Debug\TryCatchConsoleApp.csprojAssemblyReference.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TryCatchConsoleApp\TryCatchConsoleApp\obj\Debug\TryCatchConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TryCatchConsoleApp\TryCatchConsoleApp\obj\Debug\TryCatchConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TryCatchConsoleApp\TryCatchConsoleApp\obj\Debug\TryCatchConsoleApp.pdb
