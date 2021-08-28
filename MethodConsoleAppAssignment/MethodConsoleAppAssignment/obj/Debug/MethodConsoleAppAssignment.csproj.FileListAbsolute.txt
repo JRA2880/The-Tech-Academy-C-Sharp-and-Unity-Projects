@@ -1,0 +1,7 @@
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodConsoleAppAssignment\MethodConsoleAppAssignment\bin\Debug\MethodConsoleAppAssignment.exe.config
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodConsoleAppAssignment\MethodConsoleAppAssignment\bin\Debug\MethodConsoleAppAssignment.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodConsoleAppAssignment\MethodConsoleAppAssignment\bin\Debug\MethodConsoleAppAssignment.pdb
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodConsoleAppAssignment\MethodConsoleAppAssignment\obj\Debug\MethodConsoleAppAssignment.csprojAssemblyReference.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodConsoleAppAssignment\MethodConsoleAppAssignment\obj\Debug\MethodConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodConsoleAppAssignment\MethodConsoleAppAssignment\obj\Debug\MethodConsoleAppAssignment.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodConsoleAppAssignment\MethodConsoleAppAssignment\obj\Debug\MethodConsoleAppAssignment.pdb
