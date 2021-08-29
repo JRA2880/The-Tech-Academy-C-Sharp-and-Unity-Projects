@@ -1,0 +1,7 @@
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParametersConsoleApp\ParametersConsoleApp\bin\Debug\ParametersConsoleApp.exe.config
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParametersConsoleApp\ParametersConsoleApp\bin\Debug\ParametersConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParametersConsoleApp\ParametersConsoleApp\bin\Debug\ParametersConsoleApp.pdb
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParametersConsoleApp\ParametersConsoleApp\obj\Debug\ParametersConsoleApp.csprojAssemblyReference.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParametersConsoleApp\ParametersConsoleApp\obj\Debug\ParametersConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParametersConsoleApp\ParametersConsoleApp\obj\Debug\ParametersConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParametersConsoleApp\ParametersConsoleApp\obj\Debug\ParametersConsoleApp.pdb
