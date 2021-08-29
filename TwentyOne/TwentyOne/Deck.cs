@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    class Deck
+    public class Deck
     {       
             //Constructer for the Deck Class -- A way of assigning values immediately to an object upon creation.
             public Deck()

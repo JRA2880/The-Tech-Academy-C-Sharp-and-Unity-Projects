@@ -1,0 +1,7 @@
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\AbstractClassConsoleApp\AbstractClassConsoleApp\bin\Debug\AbstractClassConsoleApp.exe.config
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\AbstractClassConsoleApp\AbstractClassConsoleApp\bin\Debug\AbstractClassConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\AbstractClassConsoleApp\AbstractClassConsoleApp\bin\Debug\AbstractClassConsoleApp.pdb
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\AbstractClassConsoleApp\AbstractClassConsoleApp\obj\Debug\AbstractClassConsoleApp.csprojAssemblyReference.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\AbstractClassConsoleApp\AbstractClassConsoleApp\obj\Debug\AbstractClassConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\AbstractClassConsoleApp\AbstractClassConsoleApp\obj\Debug\AbstractClassConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\AbstractClassConsoleApp\AbstractClassConsoleApp\obj\Debug\AbstractClassConsoleApp.pdb
