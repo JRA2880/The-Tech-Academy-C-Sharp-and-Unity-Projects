@@ -8,7 +8,6 @@ namespace TwentyOne
 {
     public class Deck
     {       
-            //Constructer for the Deck Class -- A way of assigning values immediately to an object upon creation.
             public Deck()
             {  
                Cards = new List<Card>();
@@ -37,7 +36,7 @@ namespace TwentyOne
                         TempList.Add(Cards[randomIndex]);
                         Cards.RemoveAt(randomIndex);
                     }
-                    this.Cards = TempList;
+                    Cards = TempList;
                 }
             }
     }
