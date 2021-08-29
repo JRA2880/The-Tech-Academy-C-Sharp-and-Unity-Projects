@@ -1,0 +1,6 @@
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodAndObjectsConsoleApp\MethodAndObjectsConsoleApp\bin\Debug\MethodAndObjectsConsoleApp.exe.config
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodAndObjectsConsoleApp\MethodAndObjectsConsoleApp\bin\Debug\MethodAndObjectsConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodAndObjectsConsoleApp\MethodAndObjectsConsoleApp\bin\Debug\MethodAndObjectsConsoleApp.pdb
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodAndObjectsConsoleApp\MethodAndObjectsConsoleApp\obj\Debug\MethodAndObjectsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodAndObjectsConsoleApp\MethodAndObjectsConsoleApp\obj\Debug\MethodAndObjectsConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodAndObjectsConsoleApp\MethodAndObjectsConsoleApp\obj\Debug\MethodAndObjectsConsoleApp.pdb
