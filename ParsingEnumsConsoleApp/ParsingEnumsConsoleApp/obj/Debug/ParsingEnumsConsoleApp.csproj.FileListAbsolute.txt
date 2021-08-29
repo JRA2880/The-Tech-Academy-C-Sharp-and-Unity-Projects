@@ -1,0 +1,7 @@
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParsingEnumsConsoleApp\ParsingEnumsConsoleApp\bin\Debug\ParsingEnumsConsoleApp.exe.config
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParsingEnumsConsoleApp\ParsingEnumsConsoleApp\bin\Debug\ParsingEnumsConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParsingEnumsConsoleApp\ParsingEnumsConsoleApp\bin\Debug\ParsingEnumsConsoleApp.pdb
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParsingEnumsConsoleApp\ParsingEnumsConsoleApp\obj\Debug\ParsingEnumsConsoleApp.csprojAssemblyReference.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParsingEnumsConsoleApp\ParsingEnumsConsoleApp\obj\Debug\ParsingEnumsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParsingEnumsConsoleApp\ParsingEnumsConsoleApp\obj\Debug\ParsingEnumsConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParsingEnumsConsoleApp\ParsingEnumsConsoleApp\obj\Debug\ParsingEnumsConsoleApp.pdb

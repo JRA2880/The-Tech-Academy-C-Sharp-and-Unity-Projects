@@ -13,17 +13,17 @@ namespace TwentyOne
             {  
                Cards = new List<Card>();
 
-            for (int i = 0; i < 13; i++)
-            {
-                for (int j = 0; i < 4; j++)
-                {
-                    Card card = new Card();
-                    card.Face = (Face)i;
-                    card.Suit = (Suit)j;
-                    Cards.Add(card);
-                }
+                    for (int i = 0; i < 13; i++)
+                    {
+                        for (int j = 0; i < 4; j++)
+                        {
+                            Card card = new Card();
+                            card.Face = (Face)i;
+                            card.Suit = (Suit)j;
+                            Cards.Add(card);
+                        }
+                    }
             }
-        }
             public List<Card> Cards { get; set; }
             public void Shuffle(int times = 1)
             {
