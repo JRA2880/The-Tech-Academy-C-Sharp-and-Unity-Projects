@@ -1,0 +1,7 @@
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsConsoleApp\OperatorsConsoleApp\obj\Debug\OperatorsConsoleApp.csprojAssemblyReference.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsConsoleApp\OperatorsConsoleApp\obj\Debug\OperatorsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsConsoleApp\OperatorsConsoleApp\bin\Debug\OperatorsConsoleApp.exe.config
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsConsoleApp\OperatorsConsoleApp\bin\Debug\OperatorsConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsConsoleApp\OperatorsConsoleApp\bin\Debug\OperatorsConsoleApp.pdb
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsConsoleApp\OperatorsConsoleApp\obj\Debug\OperatorsConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsConsoleApp\OperatorsConsoleApp\obj\Debug\OperatorsConsoleApp.pdb
