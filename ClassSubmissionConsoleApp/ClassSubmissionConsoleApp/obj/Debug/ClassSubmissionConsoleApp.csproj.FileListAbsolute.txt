@@ -1,0 +1,7 @@
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassSubmissionConsoleApp\ClassSubmissionConsoleApp\bin\Debug\ClassSubmissionConsoleApp.exe.config
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassSubmissionConsoleApp\ClassSubmissionConsoleApp\bin\Debug\ClassSubmissionConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassSubmissionConsoleApp\ClassSubmissionConsoleApp\bin\Debug\ClassSubmissionConsoleApp.pdb
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassSubmissionConsoleApp\ClassSubmissionConsoleApp\obj\Debug\ClassSubmissionConsoleApp.csprojAssemblyReference.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassSubmissionConsoleApp\ClassSubmissionConsoleApp\obj\Debug\ClassSubmissionConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassSubmissionConsoleApp\ClassSubmissionConsoleApp\obj\Debug\ClassSubmissionConsoleApp.exe
+C:\Users\jadams\OneDrive - University of Central Florida\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassSubmissionConsoleApp\ClassSubmissionConsoleApp\obj\Debug\ClassSubmissionConsoleApp.pdb
