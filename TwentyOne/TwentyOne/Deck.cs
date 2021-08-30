@@ -22,7 +22,8 @@ namespace TwentyOne
                             Cards.Add(card);
                         }
                     }
-            }
+            } 
+
             public List<Card> Cards { get; set; }
             public void Shuffle(int times = 1)
             {
