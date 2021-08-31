@@ -1,0 +1,7 @@
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTimeConsoleApp\DateTimeConsoleApp\bin\Debug\DateTimeConsoleApp.exe.config
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTimeConsoleApp\DateTimeConsoleApp\bin\Debug\DateTimeConsoleApp.exe
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTimeConsoleApp\DateTimeConsoleApp\bin\Debug\DateTimeConsoleApp.pdb
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTimeConsoleApp\DateTimeConsoleApp\obj\Debug\DateTimeConsoleApp.csprojAssemblyReference.cache
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTimeConsoleApp\DateTimeConsoleApp\obj\Debug\DateTimeConsoleApp.csproj.CoreCompileInputs.cache
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTimeConsoleApp\DateTimeConsoleApp\obj\Debug\DateTimeConsoleApp.exe
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTimeConsoleApp\DateTimeConsoleApp\obj\Debug\DateTimeConsoleApp.pdb
