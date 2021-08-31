@@ -9,8 +9,9 @@ namespace TwentyOne
     public class Deck
     {       
             public Deck()
-            {  
-               Cards = new List<Card>();
+            {   
+                    
+                    Cards = new List<Card>();
 
                     for (int i = 0; i < 13; i++)
                     {
@@ -20,9 +21,9 @@ namespace TwentyOne
                             card.Face = (Face)i;
                             card.Suit = (Suit)j;
                             Cards.Add(card);
-                        }
+                        } 
                     }
-            } 
+            }
 
             public List<Card> Cards { get; set; }
             public void Shuffle(int times = 1)

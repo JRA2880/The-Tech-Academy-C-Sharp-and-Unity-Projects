@@ -1,0 +1,7 @@
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\NumberLogConsoleApp\NumberLogConsoleApp\bin\Debug\NumberLogConsoleApp.exe.config
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\NumberLogConsoleApp\NumberLogConsoleApp\bin\Debug\NumberLogConsoleApp.exe
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\NumberLogConsoleApp\NumberLogConsoleApp\bin\Debug\NumberLogConsoleApp.pdb
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\NumberLogConsoleApp\NumberLogConsoleApp\obj\Debug\NumberLogConsoleApp.csprojAssemblyReference.cache
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\NumberLogConsoleApp\NumberLogConsoleApp\obj\Debug\NumberLogConsoleApp.csproj.CoreCompileInputs.cache
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\NumberLogConsoleApp\NumberLogConsoleApp\obj\Debug\NumberLogConsoleApp.exe
+D:\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\NumberLogConsoleApp\NumberLogConsoleApp\obj\Debug\NumberLogConsoleApp.pdb
